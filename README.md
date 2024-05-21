@@ -1,17 +1,19 @@
 # Tic-Tac-Toe Game
 
 INTRODUCTION:
-             This is a Tic game web application built using HTML, CSS, and JavaScript.Tic-Tac-Toe is a classic two-player game that is easy to learn and fun to play. It's often one of the first 
-             games.
-             children learn due to its simplicity, yet it also offers strategic depth that can be appreciated by players of all ages. The game is played on a 3x3 grid
+
+This is a Tic game web application built using HTML, CSS, and JavaScript.Tic-Tac-Toe is a classic two-player game that is easy to learn and fun to play. It's often one of the first 
+games.Children learn due to its simplicity, yet it also offers strategic depth that can be appreciated by players of all ages. The game is played on a 3x3 grid.
 
 Technologies Used:
+
 HTML: Used for structuring the elements of the application.
 CSS: Used for styling the application and making it visually appealing.
 JavaScript: Used for implementing the functionality and rules for playing the game.
 
 
 Functionality:
+
 1)Game Board:
 The game is played on a 3x3 grid.
 Each cell in the grid can be empty, marked with an X, or marked with an O.
