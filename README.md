@@ -8,7 +8,9 @@ games.Children learn due to its simplicity, yet it also offers strategic depth t
 TECHNOLOGIES USED:
 
 HTML: Used for structuring the elements of the application.
+
 CSS: Used for styling the application and making it visually appealing.
+
 JavaScript: Used for implementing the functionality and rules for playing the game.
 
 
@@ -34,6 +36,6 @@ If all nine cells are filled and no player has three marks in a row, the game en
 
 CONCLUSION:
 
-           Tic-Tac-Toe is a simple yet engaging game that has stood the test of time due to its easy-to-understand rules and strategic depth. By mastering the basics, players can enjoy a quick and competitive game that can be played anywhere, from a piece of paper to a digital device.
+          Tic-Tac-Toe is a simple yet engaging game that has stood the test of time due to its easy-to-understand rules and strategic depth. By mastering the basics, players can enjoy a quick and competitive game that can be played anywhere, from a piece of paper to a digital device.
 
 [Live Demo](https://furip0x.github.io/tic_tac_toe/) :point_left:
