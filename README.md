@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-INTRODUCTION:
+INTRODUCTION: 
 
 This is a Tic game web application built using HTML, CSS, and JavaScript.Tic-Tac-Toe is a classic two-player game that is easy to learn and fun to play. It's often one of the first 
 games.Children learn due to its simplicity, yet it also offers strategic depth that can be appreciated by players of all ages. The game is played on a 3x3 grid.
@@ -36,6 +36,7 @@ If all nine cells are filled and no player has three marks in a row, the game en
 
 CONCLUSION:
 
-          Tic-Tac-Toe is a simple yet engaging game that has stood the test of time due to its easy-to-understand rules and strategic depth. By mastering the basics, players can enjoy a quick and competitive game that can be played anywhere, from a piece of paper to a digital device.
+Tic-Tac-Toe is a simpele yet enagaging game that has stood the test of time due to its easy-to-understand rules and strategic depth.By mastering the  basics,players can enjoy a quick and competitive game that can be played anywhere from a digital device. 
 
+                    
 [Live Demo](https://furip0x.github.io/tic_tac_toe/) :point_left:
